@@ -27,7 +27,7 @@ By offloading data transfer to a dedicated DMA engine, it achieves up to 6900 MB
   The **NVMeG4 IP** core is the only solution delivering this level of NVMe Gen4 performance on Zynq UltraScale+ devices.
 
 - **Seamless Integration with PetaLinux:**  
-  Simplifies development and deployment with fully integrated **PetaLinux** driver support.
+  Simplifies development and deployment with fully integrated PetaLinux driver support.
 
 ## About This Demo
 This demo runs Design Gateway’s **NVMeG4-IP** with DMA on **PetaLinux**, booted from an SD card and controlled via serial console.
